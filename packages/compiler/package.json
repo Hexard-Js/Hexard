@@ -1,0 +1,19 @@
+{
+  "name": "@hexardjs/compiler",
+  "version": "0.0.0",
+  "description": "The compiler powering Hexard.js.",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsc -d && node dist/index.js",
+    "build": "tsc -d"
+  },
+  "author": "Hexard.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.13",
+    "typescript": "^5.0.4"
+  }
+}
