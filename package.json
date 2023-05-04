@@ -1,0 +1,34 @@
+{
+  "name": "hexard",
+  "version": "1.0.0",
+  "description": "A web component framework for advanced UIs & apps.",
+  "main": "index.js",
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "tslint": "^6.1.3",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexard-js/Hexard.git"
+  },
+  "keywords": [
+    "web-dev",
+    "components",
+    "HMR",
+    "lit",
+    "Hexard"
+  ],
+  "author": " (Arsole)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hexard-js/Hexard/issues"
+  },
+  "homepage": "https://github.com/Hexard-js/Hexard#readme",
+  "dependencies": {
+    "lit": "^2.7.3"
+  }
+}
